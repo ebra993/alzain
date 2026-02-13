@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f453d329fa244cc878e1e3a93fab240f",
+const RESOURCES = {"404.html": "70de62673be87a51f78f19554a00edb2",
+"assets/AssetManifest.bin": "f453d329fa244cc878e1e3a93fab240f",
 "assets/AssetManifest.bin.json": "901e011f11a200c17b691e58c6c02ea6",
 "assets/assets/images/AlzenLogo.jpeg": "2c955bce651ce730456492b7ef04146f",
 "assets/assets/images/AlzenLogo.png": "53c98a46b847f287721f8361e7054669",
@@ -455,13 +456,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "f453d329fa244cc878e1e3a93fab240f
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "099c01d9165afe6d78396f393dbded00",
+"flutter_bootstrap.js": "bc291a7297a59fb7f0f102afeb8453b8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4350e710e9a9216ba5e098dde38ed573",
-"/": "4350e710e9a9216ba5e098dde38ed573",
+"index.html": "0a661a108b18e511387988684d10af89",
+"/": "0a661a108b18e511387988684d10af89",
 "main.dart.js": "8c148f0fa379347abf769cd695832532",
 "manifest.json": "3fc29f9294b755bca0378065b89e216e",
 "splash/img/branding-1x.png": "beba7bb3591fc174b452f87b0a76e9d1",
